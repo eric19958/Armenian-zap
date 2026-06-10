@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# Secrets / local config
+.env
+.env.local
+.env*.local
+
+# Logs
+*.log
+.logs/
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
